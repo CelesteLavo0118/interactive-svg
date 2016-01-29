@@ -18,12 +18,12 @@ html {
 
 #left-eye {
   animation: left-right .5s linear infinite alternate;
-  transform-origin:
+  transform-origin:center;
 }
 
 #right-eye {
   animation: left-right .5s linear infinite alternate;
-  transform-origin:
+  transform-origin:center;
 }
 
 #left-ear {
