@@ -18,12 +18,12 @@ html {
 
 #left-eye {
   animation: left-right .5s linear infinite alternate;
-  transform-origin:center;
+  transform-origin: center;
 }
 
 #right-eye {
   animation: left-right .5s linear infinite alternate;
-  transform-origin:center;
+  transform-origin: center;
 }
 
 #left-ear {
@@ -50,27 +50,27 @@ html {
   from {
     transform: translateX(-5px);
   }
-  to{
+  to {
     transform: translateX(15px);
   }
 }
 .st0 {
-  fill:#673200;
+  fill: #673200;
 }
 
 .st1 {
-  fill:#ffaaca;
+  fill: #ffaaca;
 }
 
 .st2{
-  fill:#c65b00;
+  fill: #c65b00;
 }
 
 .st3 {
-  fill:none;
-  stroke:#000;
-  stroke-width:3;
-  stroke-linecap:round;
-  stroke-linejoin:round;
-  stroke-miterlimit:10;
+  fill: none;
+  stroke: #000;
+  stroke-width: 3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 10;
 }
