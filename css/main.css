@@ -50,10 +50,12 @@ html {
   from {
     transform: translateX(-5px);
   }
+  
   to {
     transform: translateX(15px);
   }
 }
+
 .st0 {
   fill: #673200;
 }
@@ -62,7 +64,7 @@ html {
   fill: #ffaaca;
 }
 
-.st2{
+.st2 {
   fill: #c65b00;
 }
 
